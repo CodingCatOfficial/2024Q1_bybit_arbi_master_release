@@ -1,7 +1,7 @@
 # Bybit Spot-Futures Arbitrage
 
 ## 項目概述
-此程式接受輸入Bybit 現貨/合約(含括USDC/USDT)的交易對，並且在偵測滿足價差的情況下使用api進行雙邊下單，以達成期限套利。
+此程式接受輸入Bybit 現貨/合約(含括USDC/USDT)的交易對，並且在偵測滿足價差的情況下使用api進行雙邊下單，以達成期現套利。
 
 ## 使用說明
 1. 使用 `save_api` 檔案輸入api key及secret key 並點選保存，會自動儲存在 `config.json` 文件中。
