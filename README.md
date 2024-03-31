@@ -9,8 +9,8 @@
 3. 待終端機開啟後，於終端機按要求輸入帳號密碼，成功驗證則等待主程式開啟。
 4. 設定交易對及下單要求等，程式即會按條件進行api下單。
 
-[下載、設定教學及使用說明影片](https://youtu.be/mOMIfSv1ags)
-\n[看完以後阿嬤也會用的教學影片](https://youtu.be/z8LcoAn3xHc)
+[下載、設定教學及使用說明影片](https://youtu.be/mOMIfSv1ags)  
+[看完以後阿嬤也會用的教學影片](https://youtu.be/z8LcoAn3xHc)
 
 ## 注意事項
 1. `client` 及 `config.json` 需位於同一資料夾或路徑底下，zip整包下載後可將非自身電腦配置的檔案刪除。
@@ -29,7 +29,7 @@ Copyright (c) 2024 Murmurcats NFT 社團，所有權利保留 [LICENSE](LICENSE)
 [jeffrey1167](https://github.com/jeffrey1167)
 
 ## 協作者
-[hyctw](https://github.com/hyc5566)
-[RRRobert](https://github.com/yuying990718)
-[godgiraffe](https://github.com/godgiraffe)
-[0xCatduck](https://github.com/0xCatduck)
+[hyctw](https://github.com/hyc5566)  
+[RRRobert](https://github.com/yuying990718)  
+[godgiraffe](https://github.com/godgiraffe)  
+[0xCatduck](https://github.com/0xCatduck)  
