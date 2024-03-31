@@ -10,7 +10,7 @@
 4. 設定交易對及下單要求等，程式即會按條件進行api下單。
 
 [下載、設定教學及使用說明影片](https://youtu.be/mOMIfSv1ags)
-[看完以後阿嬤也會用的教學影片](https://youtu.be/z8LcoAn3xHc)
+\n[看完以後阿嬤也會用的教學影片](https://youtu.be/z8LcoAn3xHc)
 
 ## 注意事項
 1. `client` 及 `config.json` 需位於同一資料夾或路徑底下，zip整包下載後可將非自身電腦配置的檔案刪除。
